@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ray Eldath&#39;s Blog</title>
+  <icon>https://ray-eldath.me/img/avatar.jpg</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ray-eldath.me/"/>
+  <updated>2020-06-07T19:32:01.158Z</updated>
+  <id>https://ray-eldath.me/</id>
+  
+  <author>
+    <name>Ray Eldath</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ray-eldath.me/Hello-World/hello-world/"/>
+    <id>https://ray-eldath.me/Hello-World/hello-world/</id>
+    <published>2020-06-07T19:32:01.158Z</published>
+    <updated>2020-06-07T19:32:01.158Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hello World" scheme="https://ray-eldath.me/categories/Hello-World/"/>
+    
+    
+      <category term="Hello" scheme="https://ray-eldath.me/tags/Hello/"/>
+    
+      <category term="World" scheme="https://ray-eldath.me/tags/World/"/>
+    
+  </entry>
+  
+</feed>
