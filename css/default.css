@@ -1562,7 +1562,7 @@ a.has-text-grey-lightest:focus {
   border-right: 1px solid #ededed;
 }
 .card .media:not(:last-child) {
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 .dropdown {
   display: inline-flex;
@@ -7619,7 +7619,7 @@ fieldset[disabled] .select select:hover {
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;
-  padding: 0.75rem;
+  padding: 1.25rem;
 }
 .columns.is-mobile > .column.is-narrow {
   flex: none;
@@ -8807,15 +8807,15 @@ fieldset[disabled] .select select:hover {
   }
 }
 .columns {
-  margin-left: -0.75rem;
-  margin-right: -0.75rem;
-  margin-top: -0.75rem;
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+  margin-top: -1.25rem;
 }
 .columns:last-child {
-  margin-bottom: -0.75rem;
+  margin-bottom: -1.25rem;
 }
 .columns:not(:last-child) {
-  margin-bottom: calc(1.5rem - 0.75rem);
+  margin-bottom: calc(1.5rem - 1.25rem);
 }
 .columns.is-centered {
   justify-content: center;
