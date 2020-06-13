@@ -1506,7 +1506,7 @@ a.has-text-grey-lightest:focus {
 }
 .card {
   background-color: #fff;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   color: #4a4a4a;
   max-width: 100%;
   position: relative;
@@ -1562,7 +1562,7 @@ a.has-text-grey-lightest:focus {
   border-right: 1px solid #ededed;
 }
 .card .media:not(:last-child) {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
 }
 .dropdown {
   display: inline-flex;
@@ -10837,7 +10837,7 @@ article.article .content .message.message-immersive .message-body {
   height: 100%;
 }
 .navbar-main {
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05);
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -10913,7 +10913,7 @@ footer.footer .level-end .field {
 .pagination .pagination-next {
   border: none;
   background: #fff;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
 }
 .pagination .pagination-link.is-current {
   background: #3273dc;
@@ -10997,7 +10997,7 @@ footer.footer .level-end .field {
   z-index: 101;
   display: flex;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
   background-color: #f5f5f5;
   width: 540px;
@@ -11112,7 +11112,7 @@ footer.footer .level-end .field {
 .searchbox .searchbox-pagination .searchbox-pagination-link {
   overflow: hidden;
   padding: 0.5em 0.8em;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
   background-color: #fff;
 }
@@ -11242,7 +11242,7 @@ figure.highlight .section {
   bottom: 2.5em;
   line-height: 0;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
 }
 .donate .qrcode img {

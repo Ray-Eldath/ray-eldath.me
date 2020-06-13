@@ -1562,7 +1562,7 @@ a.has-text-grey-lightest:focus {
   border-right: 1px solid #ededed;
 }
 .card .media:not(:last-child) {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
 }
 .dropdown {
   display: inline-flex;

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-06-07T19:48:00.380Z</updated>
+  <updated>2020-06-13T14:33:16.515Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -17,31 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://ray-eldath.me/Hello-World/hello-world/"/>
-    <id>https://ray-eldath.me/Hello-World/hello-world/</id>
-    <published>2020-06-07T19:48:00.380Z</published>
-    <updated>2020-06-07T19:48:00.380Z</updated>
+    <title>阿尔贝·加缪其人</title>
+    <link href="https://ray-eldath.me/literature/albert-camus/"/>
+    <id>https://ray-eldath.me/literature/albert-camus/</id>
+    <published>2020-06-12T16:00:00.000Z</published>
+    <updated>2020-06-13T14:33:16.515Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
-        
-      
+      &lt;blockquote&gt;
+&lt;p&gt;他在本世纪顶住了历史潮流，独自继承着源远流长的警世文学。他怀着顽强、严格、纯洁、肃穆、热情的人道主义，向当今时代的种种粗俗丑陋发起胜负未卜的宣战。但是反过来，他以自己始终如一的拒绝，在我们的时代，再次重申反对摒弃道德的马基雅维利主义，反对趋炎附势的现实主义，证实道德的存在。&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
     
-      <category term="Hello World" scheme="https://ray-eldath.me/categories/Hello-World/"/>
+      <category term="literature" scheme="https://ray-eldath.me/categories/literature/"/>
     
     
-      <category term="Hello" scheme="https://ray-eldath.me/tags/Hello/"/>
+      <category term="阿尔贝·加缪" scheme="https://ray-eldath.me/tags/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA/"/>
     
-      <category term="World" scheme="https://ray-eldath.me/tags/World/"/>
+      <category term="文学" scheme="https://ray-eldath.me/tags/%E6%96%87%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>咱的新博客</title>
+    <link href="https://ray-eldath.me/misc/hello-world/"/>
+    <id>https://ray-eldath.me/misc/hello-world/</id>
+    <published>2020-06-11T16:00:00.000Z</published>
+    <updated>2020-06-13T14:33:16.515Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一直打算自己写博客的一套前端和后端，前端本来已经写了挺多的了，现在看来是要搁置很长一段时间了… 感觉折腾这些毕竟没啥用，还是要花时间写文章才行。。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="misc" scheme="https://ray-eldath.me/categories/misc/"/>
+    
     
   </entry>
   
