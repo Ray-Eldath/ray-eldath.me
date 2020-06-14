@@ -11358,6 +11358,16 @@ figure.highlight .section {
   padding-right: unset;
   white-space: unset;
 }
+@media screen and (min-width: 1472px) {
+  .is-2-column .container {
+    max-width: 1216px;
+    width: 1216px;
+  }
+  .is-1-column .container {
+    max-width: 1024px;
+    width: 1024px;
+  }
+}
 @media screen and (min-width: 769px), print {
   .is-sticky {
     position: -webkit-sticky;
