@@ -412,7 +412,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'Oxanium', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  font-family: 'Bitter', 'Noto Serif TC', 'Source Han Serif SC', serif;
 }
 code,
 pre {
@@ -1057,7 +1057,7 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: 'Oxanium', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Bitter', 'Noto Serif TC', 'Source Han Serif SC', serif !important;
 }
 .is-family-secondary {
   font-family: 'Oxanium', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
@@ -10722,6 +10722,9 @@ body > .section {
   height: 100%;
   object-fit: cover;
 }
+.button {
+  transition: 200ms linear;
+}
 .button.is-transparent {
   color: inherit;
   background: transparent;
@@ -10740,6 +10743,10 @@ body > .section {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+.card .card-content .menu-label {
+  font-size: 1.25em;
+  font-weight: bold;
+}
 .card .media + .media {
   border: none;
   margin-top: 0;
@@ -10751,6 +10758,14 @@ article.media .media-content .title {
   margin: 0;
   line-height: inherit;
 }
+article.article .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+article.article .title .link-muted {
+  transition: 200ms ease;
+}
 article.article .article-meta,
 article.article .article-tags {
   color: #848484;
@@ -10761,7 +10776,7 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10838,7 +10853,11 @@ article.article .content .message.message-immersive .message-body {
   height: 100%;
 }
 .navbar-main {
-  box-shadow: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(90deg, #00c0ff 0%, #ffcf00 49%, #fc4f4f 100%);
+  border-image-slice: 2;
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -10847,43 +10866,47 @@ article.article .content .message.message-immersive .message-body {
   display: flex;
   padding: 0;
   flex-shrink: 0;
+  flex-grow: 0;
 }
 .navbar-main .navbar-menu {
-  flex-grow: 1;
-  flex-shrink: 0;
   overflow-x: auto;
 }
 .navbar-main .navbar-start {
   justify-content: flex-start;
+  margin-left: 1em;
   margin-right: auto;
 }
 .navbar-main .navbar-end {
   justify-content: flex-end;
-  margin-left: auto;
+  margin-left: 2.5em;
+  margin-right: auto;
 }
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
-  padding: 0 0.5rem;
+  padding: 1.5rem 1.25rem;
   margin: 1.25rem 0.25rem;
 }
 .navbar-main .navbar-item.is-active {
   background-color: transparent;
 }
 @media screen and (max-width: 1087px) {
+  .navbar-main .navbar-item {
+    padding: 0 0.5rem;
+    margin: 1.25rem 0.25rem;
+  }
   .navbar-main .navbar-menu {
-    justify-content: center;
     box-shadow: none;
   }
   .navbar-main .navbar-start {
-    margin-right: 0;
+    margin-left: auto;
   }
   .navbar-main .navbar-end {
-    margin-left: 0;
+    margin-right: auto;
   }
 }
 .navbar-logo img {
-  max-height: 1.75rem;
+  max-height: 2.25rem;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -10901,7 +10924,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 1.75rem;
+  max-height: 3.375rem;
 }
 .pagination .pagination-link a,
 .pagination .pagination-ellipsis a,

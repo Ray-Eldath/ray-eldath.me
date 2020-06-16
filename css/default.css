@@ -412,13 +412,13 @@ button,
 input,
 select,
 textarea {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  font-family: 'Bitter', 'Noto Serif TC', 'Source Han Serif SC', serif;
 }
 code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: 'Fira Code', monospace, 'Microsoft YaHei';
 }
 body {
   color: #4a4a4a;
@@ -1057,7 +1057,7 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Bitter', 'Noto Serif TC', 'Source Han Serif SC', serif !important;
 }
 .is-family-secondary {
   font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
@@ -1069,7 +1069,7 @@ a.has-text-grey-lightest:focus {
   font-family: monospace !important;
 }
 .is-family-code {
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei' !important;
+  font-family: 'Fira Code', monospace, 'Microsoft YaHei' !important;
 }
 .is-block {
   display: block !important;
@@ -1506,7 +1506,7 @@ a.has-text-grey-lightest:focus {
 }
 .card {
   background-color: #fff;
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   color: #4a4a4a;
   max-width: 100%;
   position: relative;
@@ -10721,6 +10721,9 @@ body > .section {
   height: 100%;
   object-fit: cover;
 }
+.button {
+  transition: 200ms linear;
+}
 .button.is-transparent {
   color: inherit;
   background: transparent;
@@ -10739,6 +10742,10 @@ body > .section {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
 }
+.card .card-content .menu-label {
+  font-size: 1.25em;
+  font-weight: bold;
+}
 .card .media + .media {
   border: none;
   margin-top: 0;
@@ -10750,6 +10757,14 @@ article.media .media-content .title {
   margin: 0;
   line-height: inherit;
 }
+article.article .title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 10px;
+}
+article.article .title .link-muted {
+  transition: 200ms ease;
+}
 article.article .article-meta,
 article.article .article-tags {
   color: #7a7a7a;
@@ -10760,7 +10775,7 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10837,7 +10852,11 @@ article.article .content .message.message-immersive .message-body {
   height: 100%;
 }
 .navbar-main {
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05);
+  font-size: 1.2em;
+  font-weight: bold;
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(90deg, #00c0ff 0%, #ffcf00 49%, #fc4f4f 100%);
+  border-image-slice: 2;
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -10846,43 +10865,47 @@ article.article .content .message.message-immersive .message-body {
   display: flex;
   padding: 0;
   flex-shrink: 0;
+  flex-grow: 0;
 }
 .navbar-main .navbar-menu {
-  flex-grow: 1;
-  flex-shrink: 0;
   overflow-x: auto;
 }
 .navbar-main .navbar-start {
   justify-content: flex-start;
+  margin-left: 1em;
   margin-right: auto;
 }
 .navbar-main .navbar-end {
   justify-content: flex-end;
-  margin-left: auto;
+  margin-left: 2.5em;
+  margin-right: auto;
 }
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
-  padding: 1.25rem 0.75rem;
+  padding: 1.5rem 1.25rem;
   margin: 0 0;
 }
 .navbar-main .navbar-item.is-active {
   background-color: transparent;
 }
 @media screen and (max-width: 1087px) {
+  .navbar-main .navbar-item {
+    padding: 1.25rem 0.75rem;
+    margin: 0 0;
+  }
   .navbar-main .navbar-menu {
-    justify-content: center;
     box-shadow: none;
   }
   .navbar-main .navbar-start {
-    margin-right: 0;
+    margin-left: auto;
   }
   .navbar-main .navbar-end {
-    margin-left: 0;
+    margin-right: auto;
   }
 }
 .navbar-logo img {
-  max-height: 1.75rem;
+  max-height: 2.25rem;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -10900,7 +10923,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 1.75rem;
+  max-height: 3.375rem;
 }
 .pagination .pagination-link a,
 .pagination .pagination-ellipsis a,
@@ -10913,7 +10936,7 @@ footer.footer .level-end .field {
 .pagination .pagination-next {
   border: none;
   background: #fff;
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
 }
 .pagination .pagination-link.is-current {
   background: #3273dc;
@@ -10997,7 +11020,7 @@ footer.footer .level-end .field {
   z-index: 101;
   display: flex;
   overflow: hidden;
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
   background-color: #f5f5f5;
   width: 540px;
@@ -11112,7 +11135,7 @@ footer.footer .level-end .field {
 .searchbox .searchbox-pagination .searchbox-pagination-link {
   overflow: hidden;
   padding: 0.5em 0.8em;
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
   background-color: #fff;
 }
@@ -11185,7 +11208,7 @@ figure.highlight figcaption * {
 }
 figure.highlight figcaption span {
   font-weight: 500;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: 'Fira Code', monospace, 'Microsoft YaHei';
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
   margin-right: 0.5em;
@@ -11242,7 +11265,7 @@ figure.highlight .section {
   bottom: 2.5em;
   line-height: 0;
   overflow: hidden;
-  box-shadow: 0 4px 5px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
   border-radius: 4px;
 }
 .donate .qrcode img {
