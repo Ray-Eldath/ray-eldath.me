@@ -10754,6 +10754,12 @@ body > .section a {
   border: none;
   margin-top: 0;
 }
+.underlined,
+article.article .content h1,
+article.article .content h2 {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding-bottom: 0.2em;
+}
 article.media .media-content {
   color: #7a7a7a;
 }

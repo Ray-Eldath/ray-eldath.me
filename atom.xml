@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-06-17T13:08:23.960Z</updated>
+  <updated>2020-06-17T15:43:06.440Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>First Step Towards FPGA (1): SystemVerilog Quick Take &amp; Pros and Cons</title>
+    <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
+    <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
+    <published>2020-06-16T05:40:51.000Z</published>
+    <updated>2020-06-17T15:43:06.440Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Every time programmable hardware programming is mentioned, Verilog or SystemVerilog comes to our mind — such fact, IMHO, is ironically contrasts with another interesting, if not consensus, but at least first impression of those hardware newbies just like me, that the fundamental software and development toolkit in hardware programming field is far from diverse, mature and easy-to-use. Comparing to software engineering, there are not too much languages, tools or methodology to let you pick and choose, even among the limited available choices, most of them are either lack some important features, or just too expensive to investigate. Undoubtedly my first step towards FPGA, looking around and pick a combination of &lt;em&gt;language,  simulator and testing method&lt;/em&gt;, is a brief journey, but it also involved too many investigation as well as unexpected disappointment, which makes this journey more difficult, and more tiring. This article is intended to outline some of my conclusion, which is what I’m using now, and what I have used but quited.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hardware" scheme="https://ray-eldath.me/categories/hardware/"/>
+    
+    
+      <category term="硬件编程" scheme="https://ray-eldath.me/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="SystemVerilog" scheme="https://ray-eldath.me/tags/SystemVerilog/"/>
+    
+      <category term="FPGA" scheme="https://ray-eldath.me/tags/FPGA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>阿尔贝·加缪其人</title>
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-06-17T13:08:23.960Z</updated>
+    <updated>2020-06-17T15:43:06.440Z</updated>
     
     <summary type="html">
     
@@ -46,7 +71,7 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-06-17T13:08:23.960Z</updated>
+    <updated>2020-06-17T15:43:06.440Z</updated>
     
     <summary type="html">
     
