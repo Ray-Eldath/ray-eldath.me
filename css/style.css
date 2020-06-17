@@ -10756,7 +10756,8 @@ body > .section a {
 }
 .underlined,
 article.article .content h1,
-article.article .content h2 {
+article.article .content h2,
+article.article-post .title {
   border-bottom: 1px solid rgba(0,0,0,0.1);
   padding-bottom: 0.2em;
 }
@@ -10827,12 +10828,17 @@ article.article .content .message.message-immersive {
 article.article .content .message.message-immersive .message-body {
   border: none;
 }
-article.article-post {
-  padding: 4rem;
-  padding-top: 2rem;
+article.article-post .title {
+  padding-bottom: 0.4em;
+  margin-bottom: 1em;
 }
 article.article-post .content {
   line-height: 1.8;
+}
+article.article-post .content-end-separator {
+  border-bottom: 6px dotted rgba(0,0,0,0.3);
+  margin-top: 4rem;
+  margin-bottom: 2.25rem;
 }
 .rtl {
   direction: rtl;
@@ -10924,6 +10930,12 @@ article.article-post .content {
 }
 .navbar-logo img {
   max-height: 2rem;
+}
+footer.footer {
+  margin-top: 1.25rem;
+  border-top: 10px solid transparent;
+  border-image: linear-gradient(90deg, #52e5e7 0%, #130cb7 100%);
+  border-image-slice: 1;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -11416,6 +11428,10 @@ figure.highlight .section {
     max-width: 1088px;
     width: 1088px;
   }
+  article.article-post {
+    padding: 4rem;
+    padding-top: 2rem;
+  }
 }
 @media screen and (min-width: 769px), print {
   .is-sticky {
@@ -11435,5 +11451,8 @@ figure.highlight .section {
 @media screen and (max-width: 768px) {
   .section {
     padding: 1.5rem 1rem;
+  }
+  article.article {
+    padding: 1rem;
   }
 }
