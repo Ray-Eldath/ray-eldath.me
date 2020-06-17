@@ -10252,6 +10252,9 @@ body {
 body > .section {
   flex-grow: 1;
 }
+body > .section a {
+  transition: 200ms linear;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
@@ -10697,6 +10700,7 @@ body > .section {
 }
 .link-muted {
   color: inherit;
+  transition: 200ms ease;
 }
 .link-muted:hover {
   color: #3273dc !important;
@@ -10757,13 +10761,14 @@ article.media .media-content .title {
   margin: 0;
   line-height: inherit;
 }
+article.article {
+  padding: 2.25rem;
+  padding-top: 1.5rem;
+}
 article.article .title {
   font-size: 2.5rem;
   font-weight: bold;
   margin-top: 10px;
-}
-article.article .title .link-muted {
-  transition: 200ms ease;
 }
 article.article .article-meta,
 article.article .article-tags {
@@ -10816,6 +10821,13 @@ article.article .content .message.message-immersive {
 article.article .content .message.message-immersive .message-body {
   border: none;
 }
+article.article-post {
+  padding: 4rem;
+  padding-top: 2rem;
+}
+article.article-post .content {
+  line-height: 1.8;
+}
 .rtl {
   direction: rtl;
 }
@@ -10852,7 +10864,7 @@ article.article .content .message.message-immersive .message-body {
   height: 100%;
 }
 .navbar-main {
-  font-size: 1.2em;
+  font-size: 1.15em;
   font-weight: bold;
   border-bottom: 3px solid transparent;
   border-image: linear-gradient(90deg, #00c0ff 0%, #ffcf00 49%, #fc4f4f 100%);
@@ -10883,7 +10895,7 @@ article.article .content .message.message-immersive .message-body {
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
-  padding: 1.5rem 1.25rem;
+  padding: 1.25rem 1.25rem;
   margin: 0 0;
 }
 .navbar-main .navbar-item.is-active {
@@ -10905,7 +10917,7 @@ article.article .content .message.message-immersive .message-body {
   }
 }
 .navbar-logo img {
-  max-height: 2.25rem;
+  max-height: 2rem;
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -10923,7 +10935,7 @@ footer.footer .level-end .field {
   }
 }
 .footer-logo img {
-  max-height: 3.375rem;
+  max-height: 3rem;
 }
 .pagination .pagination-link a,
 .pagination .pagination-ellipsis a,
@@ -11203,15 +11215,20 @@ figure.highlight figcaption {
   font-style: normal;
   font-size: 0.8em;
 }
-figure.highlight figcaption * {
-  color: #7a7a7a;
+figure.highlight figcaption a {
+  color: rgba(255,255,255,0.65);
+  transition: 200ms linear;
+}
+figure.highlight figcaption a:hover {
+  color: #fff;
 }
 figure.highlight figcaption span {
   font-weight: 500;
   font-family: 'Fira Code', monospace, 'Microsoft YaHei';
+  cursor: default;
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
-  margin-right: 0.5em;
+  margin-right: 0.75em;
 }
 figure.highlight figcaption .level-right *:not(:first-child) {
   margin-left: 0.5em;
@@ -11223,7 +11240,11 @@ figure.highlight figcaption.level {
   overflow: auto;
 }
 figure.highlight figcaption.level .level-right a {
-  padding: 0em 0.75em;
+  padding: 0;
+  padding-right: 0.75em;
+}
+figure.highlight figcaption.level .level-right a:first-child {
+  padding-right: 0.5em;
 }
 figure.highlight .highlight-body {
   overflow: auto;
@@ -11382,12 +11403,12 @@ figure.highlight .section {
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
-    max-width: 1216px;
-    width: 1216px;
+    max-width: 1280px;
+    width: 1280px;
   }
   .is-1-column .container {
-    max-width: 1024px;
-    width: 1024px;
+    max-width: 1088px;
+    width: 1088px;
   }
 }
 @media screen and (min-width: 769px), print {
