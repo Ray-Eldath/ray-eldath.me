@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-06-27T10:26:26.056Z</updated>
+  <updated>2020-07-02T13:45:13.591Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的大一啊，Sigh</title>
+    <link href="https://ray-eldath.me/life/freshman/"/>
+    <id>https://ray-eldath.me/life/freshman/</id>
+    <published>2020-07-02T07:00:00.000Z</published>
+    <updated>2020-07-02T13:45:13.591Z</updated>
+    
+    <summary type="html">
+    
+      😞😖😭
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://ray-eldath.me/categories/life/"/>
+    
+    
+      <category term="矫情" scheme="https://ray-eldath.me/tags/%E7%9F%AB%E6%83%85/"/>
+    
+      <category term="没什么用的回忆" scheme="https://ray-eldath.me/tags/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>First Step Towards FPGA (1): SystemVerilog Quick Take &amp; Pros and Cons</title>
     <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
     <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
     <published>2020-06-16T05:40:51.000Z</published>
-    <updated>2020-06-27T10:26:26.056Z</updated>
+    <updated>2020-07-02T13:45:13.591Z</updated>
     
     <summary type="html">
     
@@ -46,7 +69,7 @@
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-06-27T10:26:26.056Z</updated>
+    <updated>2020-07-02T13:45:13.591Z</updated>
     
     <summary type="html">
     
@@ -71,7 +94,7 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-06-27T10:26:26.056Z</updated>
+    <updated>2020-07-02T13:45:13.591Z</updated>
     
     <summary type="html">
     
