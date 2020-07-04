@@ -10932,7 +10932,7 @@ article.article-post .content-end-separator {
   max-height: 2rem;
 }
 footer.footer {
-  margin-top: 1.25rem;
+  margin-top: 2rem;
   border-top: 10px solid transparent;
   border-image: linear-gradient(90deg, #52e5e7 0%, #130cb7 100%);
   border-image-slice: 1;
