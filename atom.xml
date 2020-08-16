@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-07-04T05:21:49.520Z</updated>
+  <updated>2020-08-16T08:26:31.833Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>作为现代音乐支柱的爵士鼓（架子鼓）(1)：总论</title>
+    <link href="https://ray-eldath.me/music/drum-1/"/>
+    <id>https://ray-eldath.me/music/drum-1/</id>
+    <published>2020-08-16T01:00:31.000Z</published>
+    <updated>2020-08-16T08:26:31.833Z</updated>
+    
+    <summary type="html">
+    
+      系列文章（咕咕咕咕咕）的第一篇。内容不少，文章较长，还请各位耐心读完；可能有各种事实性错误，也请各位在评论区指出，本垃圾寒会第一时间订正。相信无论是初学者还是已有一定经验的鼓手，都能从本文中学到一些东西——至少是本寒希望如此😜。
+    
+    </summary>
+    
+    
+      <category term="music" scheme="https://ray-eldath.me/categories/music/"/>
+    
+    
+      <category term="爵士鼓" scheme="https://ray-eldath.me/tags/%E7%88%B5%E5%A3%AB%E9%BC%93/"/>
+    
+      <category term="架子鼓" scheme="https://ray-eldath.me/tags/%E6%9E%B6%E5%AD%90%E9%BC%93/"/>
+    
+      <category term="音乐" scheme="https://ray-eldath.me/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的大一啊，sigh</title>
     <link href="https://ray-eldath.me/life/freshman/"/>
     <id>https://ray-eldath.me/life/freshman/</id>
     <published>2020-07-02T07:00:00.000Z</published>
-    <updated>2020-07-04T05:21:49.520Z</updated>
+    <updated>2020-08-16T08:26:31.933Z</updated>
     
     <summary type="html">
     
@@ -44,7 +69,7 @@
     <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
     <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
     <published>2020-06-16T05:40:51.000Z</published>
-    <updated>2020-07-04T05:21:49.520Z</updated>
+    <updated>2020-08-16T08:26:31.933Z</updated>
     
     <summary type="html">
     
@@ -69,7 +94,7 @@
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-07-04T05:21:49.520Z</updated>
+    <updated>2020-08-16T08:26:31.833Z</updated>
     
     <summary type="html">
     
@@ -94,7 +119,7 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-07-04T05:21:49.520Z</updated>
+    <updated>2020-08-16T08:26:31.933Z</updated>
     
     <summary type="html">
     

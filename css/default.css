@@ -10830,7 +10830,7 @@ article.article .content .message.message-immersive .message-body {
 }
 article.article-post .title {
   padding-bottom: 0.4em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 article.article-post .content {
   line-height: 1.8;
