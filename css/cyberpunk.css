@@ -10253,8 +10253,22 @@ body {
 body > .section {
   flex-grow: 1;
 }
-body > .section a {
-  transition: 200ms linear;
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+  background: rgba(0,0,0,0.06);
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background: rgba(0,0,0,0.12);
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0,0,0,0.24);
 }
 .ml-0,
 .mx-0 {
@@ -10920,6 +10934,7 @@ article.article-post .content-end-separator {
     margin: 1.25rem 0.25rem;
   }
   .navbar-main .navbar-menu {
+    justify-content: center;
     box-shadow: none;
   }
   .navbar-main .navbar-start {

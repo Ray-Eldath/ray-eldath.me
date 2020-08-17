@@ -3,10 +3,10 @@
   <title>Ray Eldath&#39;s Blog</title>
   <icon>https://ray-eldath.me/img/avatar.jpg</icon>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://ray-eldath.me/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-08-17T04:17:10.625Z</updated>
+  <updated>2020-08-17T06:35:34.305Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -21,26 +21,24 @@
     <link href="https://ray-eldath.me/science/nathan-wolfe/"/>
     <id>https://ray-eldath.me/science/nathan-wolfe/</id>
     <published>2020-08-17T04:03:26.000Z</published>
-    <updated>2020-08-17T04:17:10.625Z</updated>
+    <updated>2020-08-17T06:35:34.305Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;本文是一篇旧文。最早是作为本寒的知乎的&lt;a href=&quot;https://zhuanlan.zhihu.com/p/113318789&quot;&gt;独立文章&lt;/a&gt;发出去的——果然没什么人感兴趣，这么久以来，现在咱也算是半退乎了。最近刚好又在&lt;em&gt;选译、纯手译&lt;/em&gt;一篇&lt;strong&gt;巨震惊寒&lt;/strong&gt;的文章（各位敬请期待~😉😉），于是想着把以前这篇稍微改改放上来算了，估计反正也不会有人看的。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;本文是一篇旧文。最早是作为本寒的知乎的&lt;a href=&quot;https://zhuanlan.zhihu.com/p/113318789&quot;&gt;独立文章&lt;/a&gt;发出去的——果然没什么人感兴趣，这么久以来，现在咱也算是半退乎了。最近刚好又在&lt;em&gt;选译、纯手译&lt;/em&gt;一篇&lt;strong&gt;巨震惊寒&lt;/strong&gt;的文章（各位敬请期待~😉😉），于是想着把以前这篇稍微改改放上来算了，估计反正也不会有人看的。&lt;/p&gt;
 &lt;p&gt;好吧，就这样。以下是旧文章内容。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;本篇文章是刊登在非盈利机构 &lt;a href=&quot;https://www.edge.org/&quot;&gt;edge.org&lt;/a&gt; 上的英文访谈辑要的翻译。原文地址：&lt;a href=&quot;https://www.edge.org/conversation/nathan_wolfe-waiting-for-the-final-plague&quot;&gt;WAITING FOR “THE FINAL PLAGUE” - edge.org&lt;/a&gt;。翻译经 Edge.org 编辑 Russell Weinberger 授权。&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;本篇文章是刊登在非盈利机构 &lt;a href=&quot;https://www.edge.org/&quot;&gt;edge.org&lt;/a&gt; 上的英文访谈辑要的翻译。原文地址：&lt;a href=&quot;https://www.edge.org/conversation/nathan_wolfe-waiting-for-the-final-plague&quot;&gt;WAITING FOR “THE FINAL PLAGUE” - edge.org&lt;/a&gt;。翻译经 Edge.org 编辑 Russell Weinberger 授权。&lt;/p&gt;</summary>
     
     
-      <category term="science" scheme="https://ray-eldath.me/categories/science/"/>
+    
+    <category term="science" scheme="https://ray-eldath.me/categories/science/"/>
     
     
-      <category term="翻译" scheme="https://ray-eldath.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    <category term="翻译" scheme="https://ray-eldath.me/tags/%E7%BF%BB%E8%AF%91/"/>
     
-      <category term="病毒学" scheme="https://ray-eldath.me/tags/%E7%97%85%E6%AF%92%E5%AD%A6/"/>
+    <category term="病毒学" scheme="https://ray-eldath.me/tags/%E7%97%85%E6%AF%92%E5%AD%A6/"/>
     
-      <category term="生物学" scheme="https://ray-eldath.me/tags/%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
+    <category term="生物学" scheme="https://ray-eldath.me/tags/%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
     
   </entry>
   
@@ -49,23 +47,21 @@
     <link href="https://ray-eldath.me/music/drum-1/"/>
     <id>https://ray-eldath.me/music/drum-1/</id>
     <published>2020-08-16T01:00:31.000Z</published>
-    <updated>2020-08-17T04:17:10.525Z</updated>
-    
-    <summary type="html">
-    
-      系列文章（咕咕咕咕咕）的第一篇。内容不少，文章较长，还请各位耐心读完；可能有各种事实性错误，也请各位在评论区指出，本垃圾寒会第一时间订正。相信无论是初学者还是已有一定经验的鼓手，都能从本文中学到一些东西——至少是本寒希望如此😜。
-    
-    </summary>
+    <updated>2020-08-17T06:35:34.205Z</updated>
     
     
-      <category term="music" scheme="https://ray-eldath.me/categories/music/"/>
+    <summary type="html">系列文章（咕咕咕咕咕）的第一篇。内容不少，文章较长，还请各位耐心读完；可能有各种事实性错误，也请各位在评论区指出，本垃圾寒会第一时间订正。相信无论是初学者还是已有一定经验的鼓手，都能从本文中学到一些东西——至少是本寒希望如此😜。</summary>
     
     
-      <category term="爵士鼓" scheme="https://ray-eldath.me/tags/%E7%88%B5%E5%A3%AB%E9%BC%93/"/>
     
-      <category term="架子鼓" scheme="https://ray-eldath.me/tags/%E6%9E%B6%E5%AD%90%E9%BC%93/"/>
+    <category term="music" scheme="https://ray-eldath.me/categories/music/"/>
     
-      <category term="音乐" scheme="https://ray-eldath.me/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="爵士鼓" scheme="https://ray-eldath.me/tags/%E7%88%B5%E5%A3%AB%E9%BC%93/"/>
+    
+    <category term="架子鼓" scheme="https://ray-eldath.me/tags/%E6%9E%B6%E5%AD%90%E9%BC%93/"/>
+    
+    <category term="音乐" scheme="https://ray-eldath.me/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
@@ -74,21 +70,19 @@
     <link href="https://ray-eldath.me/life/freshman/"/>
     <id>https://ray-eldath.me/life/freshman/</id>
     <published>2020-07-02T07:00:00.000Z</published>
-    <updated>2020-08-17T04:17:10.625Z</updated>
-    
-    <summary type="html">
-    
-      😞😖😭
-    
-    </summary>
+    <updated>2020-08-17T06:35:34.305Z</updated>
     
     
-      <category term="life" scheme="https://ray-eldath.me/categories/life/"/>
+    <summary type="html">😞😖😭</summary>
     
     
-      <category term="矫情" scheme="https://ray-eldath.me/tags/%E7%9F%AB%E6%83%85/"/>
     
-      <category term="没什么用的回忆" scheme="https://ray-eldath.me/tags/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
+    <category term="life" scheme="https://ray-eldath.me/categories/life/"/>
+    
+    
+    <category term="矫情" scheme="https://ray-eldath.me/tags/%E7%9F%AB%E6%83%85/"/>
+    
+    <category term="没什么用的回忆" scheme="https://ray-eldath.me/tags/%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E5%9B%9E%E5%BF%86/"/>
     
   </entry>
   
@@ -97,23 +91,21 @@
     <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
     <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
     <published>2020-06-16T05:40:51.000Z</published>
-    <updated>2020-08-17T04:17:10.625Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Every time programmable hardware programming is mentioned, Verilog or SystemVerilog comes to our mind — such fact, IMHO, is ironically contrasts with another interesting, if not consensus, but at least first impression of those hardware newbies just like me, that the fundamental software and development toolkit in hardware programming field is far from diverse, mature and easy-to-use. Comparing to software engineering, there are not too much languages, tools or methodology to let you pick and choose, even among the limited available choices, most of them are either lack some important features, or just too expensive to investigate. Undoubtedly my first step towards FPGA, looking around and pick a combination of &lt;em&gt;language,  simulator and testing method&lt;/em&gt;, is a brief journey, but it also involved too many investigation as well as unexpected disappointment, which makes this journey more difficult, and more tiring. This article is intended to outline some of my conclusion, which is what I’m using now, and what I have used but quited.&lt;/p&gt;
-    
-    </summary>
+    <updated>2020-08-17T06:35:34.305Z</updated>
     
     
-      <category term="hardware" scheme="https://ray-eldath.me/categories/hardware/"/>
+    <summary type="html">&lt;p&gt;Every time programmable hardware programming is mentioned, Verilog or SystemVerilog comes to our mind — such fact, IMHO, is ironically contrasts with another interesting, if not consensus, but at least first impression of those hardware newbies just like me, that the fundamental software and development toolkit in hardware programming field is far from diverse, mature and easy-to-use. Comparing to software engineering, there are not too much languages, tools or methodology to let you pick and choose, even among the limited available choices, most of them are either lack some important features, or just too expensive to investigate. Undoubtedly my first step towards FPGA, looking around and pick a combination of &lt;em&gt;language,  simulator and testing method&lt;/em&gt;, is a brief journey, but it also involved too many investigation as well as unexpected disappointment, which makes this journey more difficult, and more tiring. This article is intended to outline some of my conclusion, which is what I’m using now, and what I have used but quited.&lt;/p&gt;</summary>
     
     
-      <category term="硬件编程" scheme="https://ray-eldath.me/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="SystemVerilog" scheme="https://ray-eldath.me/tags/SystemVerilog/"/>
+    <category term="hardware" scheme="https://ray-eldath.me/categories/hardware/"/>
     
-      <category term="FPGA" scheme="https://ray-eldath.me/tags/FPGA/"/>
+    
+    <category term="硬件编程" scheme="https://ray-eldath.me/tags/%E7%A1%AC%E4%BB%B6%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="SystemVerilog" scheme="https://ray-eldath.me/tags/SystemVerilog/"/>
+    
+    <category term="FPGA" scheme="https://ray-eldath.me/tags/FPGA/"/>
     
   </entry>
   
@@ -122,23 +114,21 @@
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-08-17T04:17:10.525Z</updated>
+    <updated>2020-08-17T06:35:34.205Z</updated>
     
-    <summary type="html">
     
-      &lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;他在本世纪顶住了历史潮流，独自继承着源远流长的警世文学。他怀着顽强、严格、纯洁、肃穆、热情的人道主义，向当今时代的种种粗俗丑陋发起胜负未卜的宣战。但是反过来，他以自己始终如一的拒绝，在我们的时代，再次重申反对摒弃道德的马基雅维利主义，反对趋炎附势的现实主义，证实道德的存在。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
+&lt;/blockquote&gt;</summary>
     
     
-      <category term="literature" scheme="https://ray-eldath.me/categories/literature/"/>
+    
+    <category term="literature" scheme="https://ray-eldath.me/categories/literature/"/>
     
     
-      <category term="阿尔贝·加缪" scheme="https://ray-eldath.me/tags/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA/"/>
+    <category term="阿尔贝·加缪" scheme="https://ray-eldath.me/tags/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA/"/>
     
-      <category term="文学" scheme="https://ray-eldath.me/tags/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="https://ray-eldath.me/tags/%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
@@ -147,16 +137,14 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-08-17T04:17:10.625Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;一直打算自己写博客的一套前端和后端，前端本来已经写了挺多的了，现在看来是要搁置很长一段时间了… 感觉折腾这些毕竟没啥用，还是要花时间写文章才行。。&lt;/p&gt;
-    
-    </summary>
+    <updated>2020-08-17T06:35:34.305Z</updated>
     
     
-      <category term="misc" scheme="https://ray-eldath.me/categories/misc/"/>
+    <summary type="html">&lt;p&gt;一直打算自己写博客的一套前端和后端，前端本来已经写了挺多的了，现在看来是要搁置很长一段时间了… 感觉折腾这些毕竟没啥用，还是要花时间写文章才行。。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="misc" scheme="https://ray-eldath.me/categories/misc/"/>
     
     
   </entry>
