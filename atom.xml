@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-08-16T11:48:33.576Z</updated>
+  <updated>2020-08-17T04:17:10.625Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>[旧文] [译] 病毒学家内森·拉尔夫：我无比期待“最后一场瘟疫”</title>
+    <link href="https://ray-eldath.me/science/nathan-wolfe/"/>
+    <id>https://ray-eldath.me/science/nathan-wolfe/</id>
+    <published>2020-08-17T04:03:26.000Z</published>
+    <updated>2020-08-17T04:17:10.625Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文是一篇旧文。最早是作为本寒的知乎的&lt;a href=&quot;https://zhuanlan.zhihu.com/p/113318789&quot;&gt;独立文章&lt;/a&gt;发出去的——果然没什么人感兴趣，这么久以来，现在咱也算是半退乎了。最近刚好又在&lt;em&gt;选译、纯手译&lt;/em&gt;一篇&lt;strong&gt;巨震惊寒&lt;/strong&gt;的文章（各位敬请期待~😉😉），于是想着把以前这篇稍微改改放上来算了，估计反正也不会有人看的。&lt;/p&gt;
+&lt;p&gt;好吧，就这样。以下是旧文章内容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;本篇文章是刊登在非盈利机构 &lt;a href=&quot;https://www.edge.org/&quot;&gt;edge.org&lt;/a&gt; 上的英文访谈辑要的翻译。原文地址：&lt;a href=&quot;https://www.edge.org/conversation/nathan_wolfe-waiting-for-the-final-plague&quot;&gt;WAITING FOR “THE FINAL PLAGUE” - edge.org&lt;/a&gt;。翻译经 Edge.org 编辑 Russell Weinberger 授权。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="science" scheme="https://ray-eldath.me/categories/science/"/>
+    
+    
+      <category term="翻译" scheme="https://ray-eldath.me/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+      <category term="病毒学" scheme="https://ray-eldath.me/tags/%E7%97%85%E6%AF%92%E5%AD%A6/"/>
+    
+      <category term="生物学" scheme="https://ray-eldath.me/tags/%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>作为现代音乐支柱的爵士鼓（架子鼓）(1)：总论</title>
     <link href="https://ray-eldath.me/music/drum-1/"/>
     <id>https://ray-eldath.me/music/drum-1/</id>
     <published>2020-08-16T01:00:31.000Z</published>
-    <updated>2020-08-16T11:48:33.576Z</updated>
+    <updated>2020-08-17T04:17:10.525Z</updated>
     
     <summary type="html">
     
@@ -46,7 +74,7 @@
     <link href="https://ray-eldath.me/life/freshman/"/>
     <id>https://ray-eldath.me/life/freshman/</id>
     <published>2020-07-02T07:00:00.000Z</published>
-    <updated>2020-08-16T11:48:33.676Z</updated>
+    <updated>2020-08-17T04:17:10.625Z</updated>
     
     <summary type="html">
     
@@ -69,7 +97,7 @@
     <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
     <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
     <published>2020-06-16T05:40:51.000Z</published>
-    <updated>2020-08-16T11:48:33.676Z</updated>
+    <updated>2020-08-17T04:17:10.625Z</updated>
     
     <summary type="html">
     
@@ -94,7 +122,7 @@
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-08-16T11:48:33.576Z</updated>
+    <updated>2020-08-17T04:17:10.525Z</updated>
     
     <summary type="html">
     
@@ -119,7 +147,7 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-08-16T11:48:33.676Z</updated>
+    <updated>2020-08-17T04:17:10.625Z</updated>
     
     <summary type="html">
     
