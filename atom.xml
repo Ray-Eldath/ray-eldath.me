@@ -6,7 +6,7 @@
   <link href="https://ray-eldath.me/atom.xml" rel="self"/>
   
   <link href="https://ray-eldath.me/"/>
-  <updated>2020-08-18T05:26:22.029Z</updated>
+  <updated>2020-08-18T10:20:15.084Z</updated>
   <id>https://ray-eldath.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ray-eldath.me/science/monk2019/"/>
     <id>https://ray-eldath.me/science/monk2019/</id>
     <published>2020-08-18T04:36:12.000Z</published>
-    <updated>2020-08-18T05:26:22.029Z</updated>
+    <updated>2020-08-18T10:20:15.084Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;译者按：&lt;/strong&gt;这篇论文最早是微信公众号「Nature自然科研」在每周新闻中推送给我的，是刊发于2019年11月号《自然：生态学与演化》（Nature Ecology &amp;amp; Evolution）上的「观点（Perspective）」文章。本寒前天一个晚上看完了，看完总有种大脑升级的感觉，幼小的心灵受到了极大的震撼……. 花了三天，&lt;em&gt;选译&lt;/em&gt;了几个本寒认为比较有意思、比较重要或者单纯比较&lt;strong&gt;令人震惊&lt;/strong&gt;的段落，放上来，各位当个“奇文共赏”就好。&lt;/p&gt;
@@ -36,11 +36,11 @@
     
     <category term="翻译" scheme="https://ray-eldath.me/tags/%E7%BF%BB%E8%AF%91/"/>
     
-    <category term="演化生物学" scheme="https://ray-eldath.me/tags/%E6%BC%94%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
-    
     <category term="生物学" scheme="https://ray-eldath.me/tags/%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
     
     <category term="不务正业" scheme="https://ray-eldath.me/tags/%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A/"/>
+    
+    <category term="演化生物学" scheme="https://ray-eldath.me/tags/%E6%BC%94%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
     
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="https://ray-eldath.me/science/nathan-wolfe/"/>
     <id>https://ray-eldath.me/science/nathan-wolfe/</id>
     <published>2020-08-17T04:03:26.000Z</published>
-    <updated>2020-08-18T05:26:22.037Z</updated>
+    <updated>2020-08-18T10:20:15.088Z</updated>
     
     
     <summary type="html">&lt;p&gt;本文是一篇旧文。最早是作为本寒的知乎的&lt;a href=&quot;https://zhuanlan.zhihu.com/p/113318789&quot;&gt;独立文章&lt;/a&gt;发出去的——果然没什么人感兴趣，这么久以来，现在咱也算是半退乎了。最近刚好又在&lt;em&gt;选译、纯手译&lt;/em&gt;一篇&lt;strong&gt;巨震惊寒&lt;/strong&gt;的文章（各位敬请期待~😉😉），于是想着把以前这篇稍微改改放上来算了，估计反正也不会有人看的。&lt;/p&gt;
@@ -64,11 +64,11 @@
     
     <category term="翻译" scheme="https://ray-eldath.me/tags/%E7%BF%BB%E8%AF%91/"/>
     
+    <category term="病毒学" scheme="https://ray-eldath.me/tags/%E7%97%85%E6%AF%92%E5%AD%A6/"/>
+    
     <category term="生物学" scheme="https://ray-eldath.me/tags/%E7%94%9F%E7%89%A9%E5%AD%A6/"/>
     
     <category term="不务正业" scheme="https://ray-eldath.me/tags/%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A/"/>
-    
-    <category term="病毒学" scheme="https://ray-eldath.me/tags/%E7%97%85%E6%AF%92%E5%AD%A6/"/>
     
   </entry>
   
@@ -77,7 +77,7 @@
     <link href="https://ray-eldath.me/music/drum-1/"/>
     <id>https://ray-eldath.me/music/drum-1/</id>
     <published>2020-08-16T01:00:31.000Z</published>
-    <updated>2020-08-18T05:26:21.937Z</updated>
+    <updated>2020-08-18T10:20:14.992Z</updated>
     
     
     <summary type="html">系列文章（咕咕咕咕咕）的第一篇。内容不少，文章较长，还请各位耐心读完；可能有各种事实性错误，也请各位在评论区指出，本垃圾寒会第一时间订正。相信无论是初学者还是已有一定经验的鼓手，都能从本文中学到一些东西——至少是本寒希望如此😜。</summary>
@@ -100,7 +100,7 @@
     <link href="https://ray-eldath.me/life/freshman/"/>
     <id>https://ray-eldath.me/life/freshman/</id>
     <published>2020-07-02T07:00:00.000Z</published>
-    <updated>2020-08-18T05:26:22.029Z</updated>
+    <updated>2020-08-18T10:20:15.084Z</updated>
     
     
     <summary type="html">😞😖😭</summary>
@@ -121,7 +121,7 @@
     <link href="https://ray-eldath.me/hardware/fpga-journey-1/"/>
     <id>https://ray-eldath.me/hardware/fpga-journey-1/</id>
     <published>2020-06-16T05:40:51.000Z</published>
-    <updated>2020-08-18T05:26:22.029Z</updated>
+    <updated>2020-08-18T10:20:15.084Z</updated>
     
     
     <summary type="html">&lt;p&gt;Every time programmable hardware programming is mentioned, Verilog or SystemVerilog comes to our mind — such fact, IMHO, is ironically contrasts with another interesting, if not consensus, but at least first impression of those hardware newbies just like me, that the fundamental software and development toolkit in hardware programming field is far from diverse, mature and easy-to-use. Comparing to software engineering, there are not too much languages, tools or methodology to let you pick and choose, even among the limited available choices, most of them are either lack some important features, or just too expensive to investigate. Undoubtedly my first step towards FPGA, looking around and pick a combination of &lt;em&gt;language,  simulator and testing method&lt;/em&gt;, is a brief journey, but it also involved too many investigation as well as unexpected disappointment, which makes this journey more difficult, and more tiring. This article is intended to outline some of my conclusion, which is what I’m using now, and what I have used but quited.&lt;/p&gt;</summary>
@@ -144,7 +144,7 @@
     <link href="https://ray-eldath.me/literature/albert-camus/"/>
     <id>https://ray-eldath.me/literature/albert-camus/</id>
     <published>2020-06-12T16:00:00.000Z</published>
-    <updated>2020-08-18T05:26:21.937Z</updated>
+    <updated>2020-08-18T10:20:14.988Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -167,7 +167,7 @@
     <link href="https://ray-eldath.me/misc/hello-world/"/>
     <id>https://ray-eldath.me/misc/hello-world/</id>
     <published>2020-06-11T16:00:00.000Z</published>
-    <updated>2020-08-18T05:26:22.029Z</updated>
+    <updated>2020-08-18T10:20:15.084Z</updated>
     
     
     <summary type="html">&lt;p&gt;一直打算自己写博客的一套前端和后端，前端本来已经写了挺多的了，现在看来是要搁置很长一段时间了… 感觉折腾这些毕竟没啥用，还是要花时间写文章才行。。&lt;/p&gt;</summary>
