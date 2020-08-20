@@ -1835,8 +1835,8 @@ a.list-item {
   color: #000;
 }
 .menu-list a.is-active {
-  background-color: #02d7f2;
-  color: rgba(0,0,0,0.7);
+  background-color: #fcee09;
+  color: #000;
 }
 .menu-list li ul {
   border-left: 1px solid #cdcdcd;
