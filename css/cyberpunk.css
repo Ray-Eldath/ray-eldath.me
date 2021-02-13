@@ -530,7 +530,7 @@ table th {
   font-size: 1.25rem !important;
 }
 .is-size-6,
-article.media .title {
+article.media .title:not(.not-article-part) {
   font-size: 1rem !important;
 }
 .is-size-7,
@@ -10809,7 +10809,7 @@ article.media .image img {
   width: 100%;
   height: 100%;
 }
-article.media .title {
+article.media .title:not(.not-article-part) {
   margin-bottom: 0.25em;
 }
 article.media .media-content {
@@ -10823,7 +10823,7 @@ article.article {
   padding: 2.25rem;
   padding-top: 1.5rem;
 }
-article.article .title {
+article.article .title:not(.not-article-part) {
   font-size: 2.5rem;
   font-weight: bold;
   margin-top: 10px;
