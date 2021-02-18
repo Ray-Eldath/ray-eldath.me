@@ -11421,6 +11421,10 @@ figure.highlight .section {
   background: $light-grey;
   color: $white-invert;
 }
+.widget#toc .card-content {
+  max-height: 94vh;
+  overflow-y: auto;
+}
 .donate {
   position: relative;
 }
